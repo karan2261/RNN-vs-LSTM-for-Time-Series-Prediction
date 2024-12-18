@@ -1,4 +1,4 @@
-# RNN-vs-LSTM-for-Time-Series-Prediction
+# Energy Forecasting with RNN and LSTM
 
 This project explores the differences between **Recurrent Neural Networks (RNN)** and **Long Short-Term Memory (LSTM)** models for time series prediction. Using the **Energy Consumption Generation Prices and Weather** dataset from Kaggle, the goal is to predict energy generation from fossil gas using a 48-hour window to forecast the next 24 hours.
 
